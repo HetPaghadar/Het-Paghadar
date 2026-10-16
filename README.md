@@ -9,4 +9,5 @@ Python  |  HTML  |  Machine Learning Fundamentals  |  Regression Data Preprocess
 ||Projects||
 
 1.Flight Price Prediction Model
+
 2.Mobile Store Website with Enquiry Page
